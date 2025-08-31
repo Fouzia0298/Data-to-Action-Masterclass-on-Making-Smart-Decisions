@@ -1,0 +1,51 @@
+Date,Store ID,Product,Category,Units Sold,Unit Price,Revenue,Region,Payment Type,Return (Y/N)
+2024-07-01,101,T-Shirt,Apparel,12,499,5988,East Zone,Debit Card,N
+2024-07-02,102,Earphones,Electronics,11,899,9889,North Zone,Upi,N
+2024-07-02,101,Earphones,Electronics,4,899,3596,South Zone,Credit Card,N
+2024-07-02,102,Resistance Band,Fitness,4,499,1996,West Zone,Cash,N
+2024-07-03,102,Resistance Band,Fitness,6,499,2994,East Zone,Debit Card,N
+2024-07-03,103,Earphones,Electronics,2,899,1798,West Zone,Credit Card,N
+2024-07-03,103,Smartwatch,Electronics,13,4999,64987,North Zone,Upi,Y
+2024-07-03,101,Resistance Band,Fitness,2,499,998,East Zone,Cash,N
+2024-07-04,102,Earphones,Electronics,1,899,899,South Zone,Cash,N
+2024-07-05,102,Earphones,Electronics,7,899,6293,East Zone,Upi,N
+2024-07-06,103,Yoga Mat,Fitness,6,1299,7794,East Zone,Debit Card,Y
+2024-07-07,103,Earphones,Electronics,10,899,8990,South Zone,Debit Card,N
+2024-07-07,104,Resistance Band,Fitness,5,499,2495,South Zone,Cash,N
+2024-07-07,101,Water Bottle,Fitness,14,299,4186,North Zone,Cash,N
+2024-07-07,103,Earphones,Electronics,4,899,3596,East Zone,Debit Card,N
+2024-07-08,104,Resistance Band,Fitness,15,499,7485,West Zone,Debit Card,N
+2024-07-09,102,Water Bottle,Fitness,12,299,3588,East Zone,Upi,N
+2024-07-09,104,Sneakers,Apparel,4,1999,7996,South Zone,Upi,N
+2024-07-09,101,Earphones,Electronics,3,899,2697,South Zone,Upi,N
+2024-07-10,101,Resistance Band,Fitness,7,499,3493,West Zone,Cash,N
+2024-07-11,101,Earphones,Electronics,11,899,9889,East Zone,Cash,N
+2024-07-11,103,Resistance Band,Fitness,3,499,1497,West Zone,Credit Card,Y
+2024-07-12,103,Yoga Mat,Fitness,9,1299,11691,North Zone,Cash,N
+2024-07-13,102,Yoga Mat,Fitness,6,1299,7794,South Zone,Credit Card,N
+2024-07-13,103,Bluetooth Speaker,Electronics,1,1499,1499,North Zone,Cash,N
+2024-07-13,102,T-Shirt,Apparel,4,499,1996,North Zone,Credit Card,N
+2024-07-14,104,Earphones,Electronics,13,899,11687,South Zone,Debit Card,N
+2024-07-14,104,Yoga Mat,Fitness,5,1299,6495,West Zone,Debit Card,N
+2024-07-17,102,Smartwatch,Electronics,7,4999,34993,East Zone,Upi,N
+2024-07-18,104,Earphones,Electronics,4,899,3596,South Zone,Credit Card,Y
+2024-07-18,101,Water Bottle,Fitness,10,299,2990,South Zone,Credit Card,N
+2024-07-18,101,Water Bottle,Fitness,2,299,598,North Zone,Cash,N
+2024-07-18,102,Smartwatch,Electronics,11,4999,54989,West Zone,Debit Card,Y
+2024-07-18,102,Bluetooth Speaker,Electronics,4,1499,5996,West Zone,Upi,N
+2024-07-18,101,Earphones,Electronics,11,899,9889,West Zone,Cash,N
+2024-07-19,104,Bluetooth Speaker,Electronics,14,1499,20986,North Zone,Credit Card,N
+2024-07-19,104,Sneakers,Apparel,13,1999,25987,North Zone,Debit Card,N
+2024-07-20,102,Bluetooth Speaker,Electronics,3,1499,4497,West Zone,Debit Card,Y
+2024-07-20,104,Water Bottle,Fitness,14,299,4186,North Zone,Upi,N
+2024-07-21,101,T-Shirt,Apparel,11,499,5489,North Zone,Credit Card,N
+2024-07-21,102,Yoga Mat,Fitness,7,1299,9093,West Zone,Upi,Y
+2024-07-21,104,T-Shirt,Apparel,3,499,1497,West Zone,Credit Card,N
+2024-07-21,103,Bluetooth Speaker,Electronics,5,1499,7495,West Zone,Upi,Y
+2024-07-22,102,Smartwatch,Electronics,4,4999,19996,North Zone,Credit Card,N
+2024-07-22,103,T-Shirt,Apparel,1,499,499,West Zone,Debit Card,N
+2024-07-24,101,Yoga Mat,Fitness,2,1299,2598,North Zone,Debit Card,N
+2024-07-24,101,Water Bottle,Fitness,10,299,2990,North Zone,Credit Card,N
+2024-07-24,103,Smartwatch,Electronics,4,4999,19996,East Zone,Debit Card,N
+2024-07-25,104,Yoga Mat,Fitness,11,1299,14289,East Zone,Upi,N
+2024-07-25,101,T-Shirt,Apparel,8,499,3992,North Zone,Credit Card,N
