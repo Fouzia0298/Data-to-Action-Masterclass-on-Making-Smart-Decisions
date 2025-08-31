@@ -3,6 +3,7 @@
 ## Overview
 This section of the repository contains my work for **Deliverable 2** of the **"Data to Action: Masterclass on Making Smart Decisions"** hosted by Excelerate. Deliverable 2 focuses on practical data handling skills, including cleaning a raw dataset, creating visualizations from the cleaned data, and summarizing a case study on Zara's use of data in fast fashion. The dataset used is a coffee shop sales dataset (similar to the RetailX example provided in the masterclass), which I cleaned and analyzed to derive insights.
 
+![Presentation Thumbnail](https://github.com/Fouzia0298/Data-to-Action-Masterclass-on-Making-Smart-Decisions/blob/main/Images/Coffee%20Dashboard.PNG)
 ## Deliverable 2: Completion Requirements
 
 ### Task 1: Clean a Raw Dataset
