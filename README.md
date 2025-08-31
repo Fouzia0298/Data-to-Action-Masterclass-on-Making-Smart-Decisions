@@ -1,4 +1,4 @@
-![Banner](./images/Banner.png)
+![Banner](https://github.com/Fouzia0298/Data-to-Action-Masterclass-on-Making-Smart-Decisions/blob/main/Images/Banner.png)
 # Data to Action: Masterclass on Making Smart Decisions
 
 ## Overview
@@ -7,17 +7,20 @@ This repository documents my participation and submissions for the **"Data to Ac
 The repository is structured into folders for each deliverable and the capstone project, containing my completed tasks, reports, datasets, and visualizations. Each folder includes a dedicated README.md for detailed descriptions of the work.
 
 ## Thumbnail Images
-- **SWOT Analysis Thumbnail**: A visual summary of the SWOT analysis for "The Daily Grind," highlighting strengths like high customer loyalty (75% weekly visits) and weaknesses like lack of online presence. ![SWOT Thumbnail](./images/SWOT_Analysis_Thumbnail.png)
-- **Presentation Thumbnail**: A cover slide for the Capstone Project ![Presentation Thumbnail](./images/Dashboard.png)
+- **SWOT Analysis Thumbnail**: A visual summary of the SWOT analysis for "The Daily Grind," highlighting strengths like high customer loyalty (75% weekly visits) and weaknesses like lack of online presence.
+  
+-<img src="https://github.com/Fouzia0298/Data-to-Action-Masterclass-on-Making-Smart-Decisions/blob/main/Images/SWOT_Analysis_Thumbnail.PNG" alt="SWOT Analysis Thumbnail" width="400" height="500">
+- **Presentation Thumbnail**: A cover slide for the Capstone Project ![Presentation Thumbnail](https://github.com/Fouzia0298/Data-to-Action-Masterclass-on-Making-Smart-Decisions/blob/main/Images/Dashboard.PNG)
 
 ## Masterclass Structure and Objectives
 - **Objective**: Empower professionals to harness data for smart, scalable decisions using tools like Excel, Tableau/Power BI/Looker (though I primarily used Excel and Word for submissions).
 - **Key Topics**: Data-driven vs. gut-driven decisions, data cleaning and visualization, strategic frameworks (e.g., SWOT, decision trees), case studies (Airbnb, Zara), and a retail simulation.
 - **Gains**: Practical skills in data handling, industry tools, strategic thinking, and problem-solving with real datasets.
 ## Certificate Recieved
-
-![Certificate](./images/Certificate.png)
-![Badge](./images/Badge.png)
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Fouzia0298/Data-to-Action-Masterclass-on-Making-Smart-Decisions/blob/main/Images/Certificate.PNG" alt="Certificate Thumbnail" width="300" height="400">
+  <img src="https://github.com/Fouzia0298/Data-to-Action-Masterclass-on-Making-Smart-Decisions/blob/main/Images/Badge.png" alt="Badge Thumbnail" width="300" height="400">
+</div>
 
 ## Repository Structure
 The repository is organized by deliverables, each corresponding to a day or phase of the masterclass:
